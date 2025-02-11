@@ -21,3 +21,7 @@
     justify-content: center;
     background-color: yellow;
 }
+
+.drop-box:hover {
+    color: red;
+}
