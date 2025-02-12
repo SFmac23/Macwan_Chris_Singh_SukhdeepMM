@@ -3,7 +3,7 @@ A web-based music mixer that allows users to drag and drop audio clips to create
 
 # Team Members  
 - Chris Macwan (Designer)  
-- Sukhdeep Singh (Developer)  
+- Diya Patel (Developer)  
 
 # How to Run the Project  
 1. Clone the repository: 
